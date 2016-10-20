@@ -27,5 +27,5 @@ Status report play speed> off=0, slow=1, normal=3, fast=4> 3
 Keyclick status> on
 Toggle tone status> on
 Stored macros> 0
-Keys remapped> 0
+Keys remapped> 8
 Power user mode> on
