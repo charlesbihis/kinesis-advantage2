@@ -1,0 +1,31 @@
+<<< INITIAL >>>
+
+Model name> Advantage2 Keyboard
+Firmware version> 1.0.0.us (2MB), 06/29/2016
+Current keyboard config file> qwerty.txt
+Current thumb keys mode> mac
+Macro playback status> active
+Macro playback speed> slow=1, normal=3, fast=9> 3
+Keyclick status> clicks on
+Toggle action tone status> tones on
+Number of stored macros> 0
+Number of keys remapped> 8
+Power user mode> on
+
+
+
+
+<<<Advantage2_1.0.168.upd>>>
+
+Model> Advantage2
+Firmware> 1.0.168.us (2MB), 09/26/2016
+Active layout file> qwerty.txt
+Thumb keys mode> mac
+Macro play status> active
+Macro play speed> slow=1, normal=3, fast=9> 3
+Status report play speed> off=0, slow=1, normal=3, fast=4> 3
+Keyclick status> on
+Toggle tone status> on
+Stored macros> 0
+Keys remapped> 8
+Power user mode> on
