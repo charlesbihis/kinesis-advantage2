@@ -2,6 +2,7 @@
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
+[delete]>[lshift]
 [rctrl]>[rwin]
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
