@@ -7,7 +7,7 @@
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
 [delete]>[lshift]
-[rctrl]>[rwin]
+[rctrl]>[lalt]
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
