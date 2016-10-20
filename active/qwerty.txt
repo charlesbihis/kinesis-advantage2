@@ -2,6 +2,8 @@
 [caps]>[escape]
 [lshift]>[delete]
 [scroll]>[shutdn]
+[intl-\]>[end]
+[`]>[home]
 [kp=]>[kp=mac]
 [lalt]>[tab]
 [end]>[rwin]
