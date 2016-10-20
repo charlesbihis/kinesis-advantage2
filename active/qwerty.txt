@@ -11,11 +11,9 @@
 [delete]>[lshift]
 [rctrl]>[lalt]
 [kp-rctrl]>[kp-rwin]
-[rwin]>[caps]
+[rwin]>[F3]
 [kp-rwin]>[kp-rctrl]
-[pup]>[F3]
 [pdown]>[rwin]
 [rshift]>[=]
 {home}>{-rwin}{space}{+rwin}
-{rwin}>{-rwin}{-lshift}{right}{+lshift}{+rwin}
-{lshift}{rwin}>{-rwin}{-lshift}{left}{+lshift}{+rwin}
+{pup}>{-rwin}{-lshift}{cbrack}{+lshift}{+rwin}
