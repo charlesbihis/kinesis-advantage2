@@ -15,3 +15,4 @@
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
 [pdown]>[rwin]
+[rshift]>[=]
