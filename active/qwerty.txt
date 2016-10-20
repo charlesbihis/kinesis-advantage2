@@ -1,5 +1,6 @@
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
+[end]>[rwin]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
 [delete]>[lshift]
@@ -7,3 +8,4 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
+[pdown]>[rwin]
