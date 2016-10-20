@@ -2,6 +2,7 @@
 [lshift]>[delete]
 [scroll]>[shutdn]
 [kp=]>[kp=mac]
+[lalt]>[tab]
 [end]>[rwin]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
