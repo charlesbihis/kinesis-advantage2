@@ -16,3 +16,4 @@
 [kp-rwin]>[kp-rctrl]
 [pdown]>[rwin]
 [rshift]>[=]
+{home}>{-rwin}{space}{+rwin}
