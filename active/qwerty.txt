@@ -5,7 +5,7 @@
 [intl-\]>[end]
 [`]>[home]
 [kp=]>[kp=mac]
-[lalt]>[tab]
+[lalt]>[pdown]
 [end]>[rwin]
 [kp-lctrl]>[kp-lwin]
 [delete]>[lshift]
@@ -18,3 +18,4 @@
 {home}>{-rwin}{space}{+rwin}
 {pup}>{-rwin}{-lshift}{cbrack}{+lshift}{+rwin}
 {lshift}{pup}>{-rwin}{-lshift}{obrack}{+rwin}{+lshift}
+{lalt}>{-rwin}{tab}{+rwin}
